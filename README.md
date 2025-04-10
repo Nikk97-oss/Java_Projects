@@ -1,2 +1,2 @@
 # Java_Projects
-Progetti in Java per esercitarmi
+Progetto prato fiorito per esercitarmi con il framework java.swing per creare forms.
